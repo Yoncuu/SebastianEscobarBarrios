@@ -1,0 +1,23 @@
+body {
+  Background-color:LightCyan;
+}
+h1 {
+  font-size:40px;
+}
+h4 {
+  font-style:italic;
+  font-weight:lighter;
+  font-size:20px;
+}
+h3 {
+  font-size:30px;
+  font-weight:bold;
+  Text-decoration:underline;
+  padding:15px;
+}
+p {
+  font-size:20px;
+  font-weight:lighter;
+  text-align:justify;
+  padding:15px;
+}
